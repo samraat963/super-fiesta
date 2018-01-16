@@ -1,0 +1,11 @@
+# adding 
+
+a=10
+b=30
+c=(a+b)
+print ("addition of",a,"and",b,"is",c)
+
+a=10
+b=90
+print (a+b)
+ 
